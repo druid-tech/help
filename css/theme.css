@@ -440,7 +440,7 @@ fieldset {
 }
 
 body {
-  background-color: #fafafa;
+  background-color: #ffffff;
   margin: 0;
 }
 
@@ -526,27 +526,27 @@ video {
   max-width: 100%;
 }
 
-table {
+ {
   border-collapse: collapse;
-  border: 1px solid #f0f0f0;
+  border: 0px solid #ffffff;
   width: 100%;
 }
 
 th,
 td {
-  border-top: 1px solid #f0f0f0;
-  border-right: 1px solid #f0f0f0;
+  border-top: 0px solid #ffffff;
+  border-right: 0px solid #ffffff;
   padding: .6rem;
 }
 
 tr:nth-child(even) th, tr:nth-child(even)
 td {
-  background: #f8f8f8;
+  background: #ffffff;
 }
 
 th {
-  background: #eee;
-  font-weight: bold;
+  background: #ffffff;
+  font-weight: normal;
   text-align: left;
 }
 

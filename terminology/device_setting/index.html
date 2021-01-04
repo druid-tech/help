@@ -16,20 +16,32 @@
 :root {--custom-background-color: #69becb;}
 </style>
 <meta property="og:title" content="Device setting" />
-<meta property="og:description" content="The table below gives the explanations to the data fields on device setting page.
-   Data field Explanation     RTL Real time mode. GPS collecting, ENV collecting and BHV collecting work at the highest frequency. Power consumption is high.   STD Standard mode. The default working mode of DEBUT devices.   ECO Ecology, Conservation and Optimization mode. The most energy efficient mode.   STB Standby mode." />
+<meta property="og:description" content="This section gives the explanation to the setting items on the device setting page.
+Setting mode
+Real time mode
+Interval of GPS collecting, environment data collecting and behavior data collecting is 10 minutes. Interval of data transmission is 1 day. You cannot change the interval in this mode.
+Standard mode
+STD mode is the default setting of DEBUT devices. Interval of GPS collecting and environment data collecting is 4 hours. Interval of behavior data collecting is 10 minutes." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://druid-tech.github.io/help/terminology/device_setting/" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Device setting"/>
-<meta name="twitter:description" content="The table below gives the explanations to the data fields on device setting page.
-   Data field Explanation     RTL Real time mode. GPS collecting, ENV collecting and BHV collecting work at the highest frequency. Power consumption is high.   STD Standard mode. The default working mode of DEBUT devices.   ECO Ecology, Conservation and Optimization mode. The most energy efficient mode.   STB Standby mode."/>
+<meta name="twitter:description" content="This section gives the explanation to the setting items on the device setting page.
+Setting mode
+Real time mode
+Interval of GPS collecting, environment data collecting and behavior data collecting is 10 minutes. Interval of data transmission is 1 day. You cannot change the interval in this mode.
+Standard mode
+STD mode is the default setting of DEBUT devices. Interval of GPS collecting and environment data collecting is 4 hours. Interval of behavior data collecting is 10 minutes."/>
 <meta itemprop="name" content="Device setting">
-<meta itemprop="description" content="The table below gives the explanations to the data fields on device setting page.
-   Data field Explanation     RTL Real time mode. GPS collecting, ENV collecting and BHV collecting work at the highest frequency. Power consumption is high.   STD Standard mode. The default working mode of DEBUT devices.   ECO Ecology, Conservation and Optimization mode. The most energy efficient mode.   STB Standby mode.">
+<meta itemprop="description" content="This section gives the explanation to the setting items on the device setting page.
+Setting mode
+Real time mode
+Interval of GPS collecting, environment data collecting and behavior data collecting is 10 minutes. Interval of data transmission is 1 day. You cannot change the interval in this mode.
+Standard mode
+STD mode is the default setting of DEBUT devices. Interval of GPS collecting and environment data collecting is 4 hours. Interval of behavior data collecting is 10 minutes.">
 
-<meta itemprop="wordCount" content="128">
+<meta itemprop="wordCount" content="336">
 
 
 
@@ -41,41 +53,36 @@
 
 <div class="content-container">
 <main><h1>Device setting</h1>
-<p>The table below gives the explanations to the data fields on device setting page.</p>
-<table>
-<thead>
-<tr>
-<th>Data field</th>
-<th>Explanation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>RTL</td>
-<td>Real time mode. GPS collecting, ENV collecting and BHV collecting work at the highest frequency. Power consumption is high.</td>
-</tr>
-<tr>
-<td>STD</td>
-<td>Standard mode. The default working mode of DEBUT devices.</td>
-</tr>
-<tr>
-<td>ECO</td>
-<td>Ecology, Conservation and Optimization mode. The most energy efficient mode.</td>
-</tr>
-<tr>
-<td>STB</td>
-<td>Standby mode. GPS collecting, ENV collecting and BHV collecting are turned off. Only transmission is on.</td>
-</tr>
-<tr>
-<td>OTT</td>
-<td>On-time Transmission mode. The device transmits data to the server at selected hour (based on the time zone set in Debut Data Center).  You can specify up to 3 time options per day.</td>
-</tr>
-<tr>
-<td>CUT</td>
-<td>Customization mode. You can set the interval of GPS collecting, ENV collecting, BHV collecting and transmitting as needed.</td>
-</tr>
-</tbody>
-</table>
+<p>This section gives the explanation to the setting items on the device setting page.<br>
+<img src="https://raw.githubusercontent.com/rahjuu/color/master/setting parameter.png" style="zoom:80%;" /></p>
+<p><strong>Setting mode</strong></p>
+<p>Real time mode<br>
+Interval of GPS collecting, environment data collecting and behavior data collecting is 10 minutes. Interval of data transmission is 1 day. You cannot change the interval in this mode.</p>
+<p>Standard mode<br>
+STD mode is the default setting of DEBUT devices. Interval of GPS collecting and environment data collecting is 4 hours. Interval of behavior data collecting is 10 minutes. Interval of data transmission is 8 hour. You cannot change the interval in this mode.</p>
+<p>Ecological—balanced<br>
+Interval of GPS collecting and environment data collecting is 4 hours. behavior data collecting is turned off. Interval of data transmission is 1 day. You cannot change the interval in this mode.</p>
+<p>Stand-by mode<br>
+GPS collecting, environment data collecting and behavior data collecting are turned off. Interval of data transmission is 1 day. You cannot change the interval in this mode.</p>
+<p>Customized mode<br>
+In CUT mode, you can turn on or turn off GPS collecting, environment data collecting and behavior data collecting and select the collecting interval and transmission interval as needed.</p>
+<p><strong>Setting parameter</strong></p>
+<p>BOOST<br>
+Enable or disable BOOST.</p>
+<p>GPS data<br>
+Enable or disable GPS data collecting. When enabled, you can set it to Interval mode or Follow transmission mode.</p>
+<p>Environment data<br>
+Enable or disable environment data collecting. When enabled, you can set it to Interval mode or Follow transmission mode.</p>
+<p>Behavior data<br>
+Enable or disable behavior data collecting. When enabled, you can set the collecting interval to 10 min or 30 min.</p>
+<p>Cellular<br>
+Enable or disable the cellular transmission. When enabled, you can set it to Interval mode or On-time mode.</p>
+<p>Interval<br>
+The device transmits data to the server at a selected time interval.</p>
+<p>Follow transmission<br>
+The interval of data collecting is synchronized with the transmitting interval of the device.</p>
+<p>On-time<br>
+The device transmits data to the server at selected hour (based on the time zone set in the data center). You can specify up to 3 time options per day.</p>
 <footer><p class="powered"><a href="https://www.druid.tech">Druid Technology.</a> All rights reserved.
 </footer>
 </main><div class="sidebar">
@@ -131,6 +138,18 @@
 <li class=""><a href="https://druid-tech.github.io/help/faq/earth/">How to generate dynamic GPS track with Druid Earth?</a>
   
 </li>
+
+<li class=""><a href="https://druid-tech.github.io/help/faq/billing/">What is the billing rule?</a>
+  
+</li>
+
+<li class=""><a href="https://druid-tech.github.io/help/faq/data_break/">How to generate dynamic GPS track with Druid Earth?</a>
+  
+</li>
+
+<li class=""><a href="https://druid-tech.github.io/help/faq/gps_tolerance/">Why GPS is sometimes inaccurate?</a>
+  
+</li>
 </ul>
   
 </li>
@@ -151,6 +170,10 @@
   
 </li>
 <li class="active"><a href="https://druid-tech.github.io/help/terminology/device_setting/">Device setting</a></li>
+
+<li class=""><a href="https://druid-tech.github.io/help/terminology/data-setting/">Why GPS is sometimes inaccurate?</a>
+  
+</li>
 </ul>
   
 </li>
