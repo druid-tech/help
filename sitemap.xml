@@ -3,126 +3,196 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://druid-tech.github.io/help/app/device/setting/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://druid-tech.github.io/help/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/</loc>
+    <loc>https://druid-tech.github.io/help/app/intelink/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/setting_terminal/</loc>
+    <loc>https://druid-tech.github.io/help/app/intelink/on/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/setting_gateway/</loc>
+    <loc>https://druid-tech.github.io/help/app/device/cache/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/terminology/data-exporting/</loc>
+    <loc>https://druid-tech.github.io/help/app/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/setting_batch/</loc>
+    <loc>https://druid-tech.github.io/help/app/device/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/terminology/</loc>
+    <loc>https://druid-tech.github.io/help/app/intelink/deliver_setting/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/terminology/device_setting/</loc>
-  </url>
-  
-  <url>
-    <loc>https://druid-tech.github.io/help/terminology/data-exporting/gps/</loc>
+    <loc>https://druid-tech.github.io/help/app/device/add_terminal/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/terminology/data-exporting/env/</loc>
+    <loc>https://druid-tech.github.io/help/app/intelink/download/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/terminology/data-exporting/bhv/</loc>
+    <loc>https://druid-tech.github.io/help/app/intelink/find/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/terminology/data-exporting/acc/</loc>
+    <loc>https://druid-tech.github.io/help/web/settings/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/terminology/data-exporting/bss/</loc>
+    <loc>https://druid-tech.github.io/help/web/data-analysis/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/setting_effect/</loc>
+    <loc>https://druid-tech.github.io/help/web/earth/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/boost/</loc>
+    <loc>https://druid-tech.github.io/help/web/settings/setting_terminal/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/odba/</loc>
+    <loc>https://druid-tech.github.io/help/web/faq/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/interval_consistency/</loc>
+    <loc>https://druid-tech.github.io/help/web/settings/setting_gateway/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/gateway_terminal/</loc>
+    <loc>https://druid-tech.github.io/help/web/settings/setting_batch/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/multi_gps/</loc>
+    <loc>https://druid-tech.github.io/help/web/terminology/data-exporting/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/export/</loc>
+    <loc>https://druid-tech.github.io/help/web/terminology/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/earth/</loc>
+    <loc>https://druid-tech.github.io/help/web/terminology/device_setting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/terminology/data-exporting/gps/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/billing/</loc>
+    <loc>https://druid-tech.github.io/help/web/terminology/data-exporting/env/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/gps_tolerance/</loc>
+    <loc>https://druid-tech.github.io/help/web/terminology/data-exporting/bhv/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/movebank/</loc>
+    <loc>https://druid-tech.github.io/help/web/terminology/data-exporting/acc/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://druid-tech.github.io/help/faq/compare/</loc>
+    <loc>https://druid-tech.github.io/help/web/terminology/data-exporting/bss/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/settings/setting_effect/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/faq/boost/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/faq/odba/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/faq/interval_consistency/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/faq/gateway_terminal/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/earth/multi_gps/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/data-analysis/export/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/earth/dynamic-track/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/faq/billing/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/faq/gps_tolerance/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/faq/movebank/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://druid-tech.github.io/help/web/earth/compare/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   

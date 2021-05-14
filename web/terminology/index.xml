@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminology on Druid Online Help</title>
+    <link>https://druid-tech.github.io/help/web/terminology/</link>
+    <description>Recent content in Terminology on Druid Online Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://druid-tech.github.io/help/web/terminology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Device setting</title>
+      <link>https://druid-tech.github.io/help/web/terminology/device_setting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://druid-tech.github.io/help/web/terminology/device_setting/</guid>
+      <description>This section gives the explanation to the setting items on the device setting page.
+Setting mode
+Real time mode
+Interval of GPS collecting, environment data collecting and behavior data collecting is 10 minutes. Interval of data transmission is 1 day. You cannot change the interval in this mode.
+Standard mode
+STD mode is the default setting of DEBUT devices. Interval of GPS collecting and environment data collecting is 4 hours. Interval of behavior data collecting is 10 minutes.</description>
+    </item>
+    
+  </channel>
+</rss>
